@@ -21,7 +21,7 @@ This is similar to Rock-Paper-Scissors, but with **Snake, Water, and Gun**.
 ---
 
 ## 🚀 How to Run
-1. Clone this repository or copy the code into a Python file (e.g., `game.py`).
+1. Clone this repository or copy the code into a Python file (e.g., `Sanke_Water_Gun.py`).
 2. Run the file in your terminal:
    ```bash
-   python game.py
+   python Sanke_Water_Gun.py
