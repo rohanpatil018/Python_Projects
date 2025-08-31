@@ -1,6 +1,6 @@
 import random
 
-
+//to Generate random number between 1 to 100
 n=random.randint(1,100)
 
 a=-1
@@ -14,5 +14,6 @@ while(a!=n):
         print("Lower Number please!!")
     else:
         print("Higher Number please!!")
+
 
 print(f'You have correctly gussed the number {n} in {guesses} attempt')
